@@ -1,0 +1,18 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">intent2</string>
+    <string name="editText_uri"
+        android:orientation="vertical"
+        >https://www.youtube.com/watch?v=Mt0P6aNwxHU</string>
+    <string name="button_uri"
+        android:orientation="vertical"
+        >kunjungiChannele</string>
+    <string name="editText_loc"
+        android:orientation="vertical"
+        >Politeknik Negeri Malang</string>
+    <string name="button_loc"
+        android:orientation="vertical"
+        >openLocation</string>
+    <string name="link">https://www.youtube.com/watch?v=Mt0P6aNwxHU</string>
+    <string name="kunjungi_channel">Kunjungi Channel</string>
+    <string name="selamat_datang">Selamat Datang</string>
+</resources>
